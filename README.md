@@ -32,7 +32,7 @@ You can view the ATC Members spreadsheet [here](https://drive.google.com/your-me
 
 ## ATC Club Roster
 
-You can view the ATC Club Roster spreadsheet [here](https://drive.google.com/your-roster-link).
+You can view the ATC Club Roster spreadsheet [here](https://drive.google.com/drive/folders/1svwgHvwnIEfp6rdQa2m7Z3MFSueOGkOO).
 
 ## Usage
 
