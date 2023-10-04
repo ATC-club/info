@@ -10,7 +10,7 @@ Technology, next-generation sequencing, and big-data have necessitated the use o
 - Explore data visualization using coding languages
 - Teach and learn from one another
 
-## Table of Contents
+# Table of Contents
 
 - [ATC Agenda](#atc-agenda)
 - [ATC Members](#atc-members)
