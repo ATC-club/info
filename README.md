@@ -30,7 +30,7 @@ You can view the ATC Agenda document [here](https://drive.google.com/your-agenda
 
 You can view the ATC Members spreadsheet [here](https://drive.google.com/your-members-link).
 
-## ATC Club Roster
+# ATC Club Roster
 
 You can view the ATC Club Roster spreadsheet [here](https://drive.google.com/your-roster-link).
 
