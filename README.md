@@ -34,7 +34,7 @@ You can view the ATC Members spreadsheet [here](https://drive.google.com/your-me
 
 You can view the ATC Club Roster spreadsheet [here](https://drive.google.com/your-roster-link).
 
-## Usage
+# Usage
 
 Explain how users can use or contribute to your project.
 
