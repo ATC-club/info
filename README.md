@@ -42,3 +42,5 @@ Explain how users can use or contribute to your project.
 
 Explain how users can contribute to your project or provide guidelines for contributions.
 
+- Jackie Kleynhans
+
